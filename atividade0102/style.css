@@ -1,0 +1,28 @@
+[id$=_imp]{
+    color: orange;
+}
+
+#teste_imp{
+    background-color: black;
+}
+#tes_imp{
+    background-color: aqua;
+}
+#te_imp{
+    background-color: blueviolet;
+}
+#idade{
+    background-color: grey;
+}
+#idad{
+    background-color: brown;
+}
+#ida{
+    background-color: red;
+}
+.titulo{
+    text-align: right;
+}
+[id*=ida]{
+    font-weight: bold;
+}

@@ -1,0 +1,21 @@
+.div1{
+    background-color: red;
+    border: 5px solid green;
+    height: 180px;
+    
+    
+}
+.div3{
+    background-color: violet;
+    border: 2px solid black;
+    height: 120px;
+}
+.div4{
+    background-color: rgb(238, 179, 52);
+    border: 4px brown solid;
+    height: 120px;
+}
+.div2{
+    border: 1px solid;
+    
+}
